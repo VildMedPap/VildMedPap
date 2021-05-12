@@ -8,7 +8,6 @@
 
 At the moment developing my backend and frontend skills 🖥
 
-
 Pythonista 🐍 and Mongolian 🍃
 
 ---
@@ -26,7 +25,7 @@ Pythonista 🐍 and Mongolian 🍃
 
 ---
 
-### ⚒ Toolbox
+### Toolbox
 
 <p align="left">
   <br>
