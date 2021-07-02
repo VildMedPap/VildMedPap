@@ -2,8 +2,7 @@
 
 ---
 
-💰 Senior Data Scientist by profession  
-⚽️ Data Magician at a professional football club by night ("soccer" for you Americans)  
+💰 Senior Data Scientist by profession 
 📚 Full Stack Data Scientist by heart
 
 At the moment developing my backend and frontend skills 🖥
