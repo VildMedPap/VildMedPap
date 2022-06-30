@@ -1,13 +1,16 @@
-### Data Storyteller... Data Detective... Data Discoverer... Algorithm Adventurer... Pattern Pirate...
+### Lead MLOps Engineer @ Vivino 🍷
 
 ---
 
-💰 Senior Data Scientist by profession 
-📚 Full Stack Data Scientist by heart
+My passion is the intersection between machine learning and DevOps also known as MLOps. 5 years of experience as (Senior) Data Scientist / ML Engineer but committed myself 100% to MLOps in the beginning of 2022.
 
-At the moment developing my backend and frontend skills 🖥
+Pythonista 🐍 Dockerlorian 🐳 Amazon Warrior (AWS) ☀️🌴⚔️ FastAPI devoter 💨🙏🏻
 
-Pythonista 🐍 Mongolian 🍃 Dockerlorian 🐳
+At the moment sharpening my skills within Terraform, Jenkins and awk.
+
+Big fan of handling as much as possible through the combination of Docker, Makefiles and configuration.
+
+Had a minor adventure within frontend in the middle of 2021. Not a fan (maybe because it was solely as a hobby project and not professionally? Who knows...)
 
 ---
 
@@ -30,12 +33,16 @@ Pythonista 🐍 Mongolian 🍃 Dockerlorian 🐳
 <p align="left">
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="Nginx" width="50" height="50" />
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="Github Actions" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />
   <br>
 </p>
 
@@ -54,6 +61,8 @@ Pythonista 🐍 Mongolian 🍃 Dockerlorian 🐳
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" />
   <br>
 </p>
 
