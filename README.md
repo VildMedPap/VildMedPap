@@ -10,7 +10,7 @@ At the moment sharpening my skills within Terraform, Jenkins and awk.
 
 Big fan of handling as much as possible through the combination of Docker, Makefiles and configuration.
 
-Had a minor adventure within frontend in the middle of 2021. Not a fan (maybe because it was solely as a hobby project and not professionally? Who knows...)
+Had a minor adventure within frontend in the middle of 2021. Not hooked (maybe because it was solely as a hobby project and not professionally? Who knows...)
 
 ---
 
