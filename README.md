@@ -40,6 +40,7 @@ Had a minor adventure within frontend in the middle of 2021. Not hooked (maybe b
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="Nginx" width="50" height="50" />
+    <img src="https://cdn.worldvectorlogo.com/logos/traefik-1.svg" alt="Traefik" width="50" height="50" />
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="Github Actions" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" />
