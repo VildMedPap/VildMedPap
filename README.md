@@ -1,6 +1,6 @@
-### Lead MLOps Engineer @ Vivino 🍷
+<h1 align="center">Lead MLOps Engineer @ Vivino 🍷</h1>
 
-Pythonista 🐍 Dockerlorian 🐳 Amazon Warrior (AWS) ☀️🌴⚔️ FastAPI devoter 💨🙏🏻 *Aspiring* Rustacean 🦀
+<h5 align="center">Pythonista 🐍 &nbsp; Dockerlorian 🐳 &nbsp; Amazon Warrior (AWS) ☀️🌴⚔️ &nbsp; FastAPI devoter 💨🙏🏻 &nbsp; <i>Aspiring</i> Rustacean 🦀</h5>
 
 ---
 
