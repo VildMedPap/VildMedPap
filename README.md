@@ -1,14 +1,12 @@
 ### Lead MLOps Engineer @ Vivino 🍷
 
+Pythonista 🐍 Dockerlorian 🐳 Amazon Warrior (AWS) ☀️🌴⚔️ FastAPI devoter 💨🙏🏻 Aspiring Rustacean 🦀
+
 ---
 
 My passion is the intersection between machine learning and DevOps also known as MLOps. 5 years of experience as (Senior) Data Scientist / ML Engineer but committed myself 100% to MLOps in the beginning of 2022.
 
-Pythonista 🐍 Dockerlorian 🐳 Amazon Warrior (AWS) ☀️🌴⚔️ FastAPI devoter 💨🙏🏻
-
-At the moment sharpening my skills within Terraform, Jenkins and awk.
-
-Big fan of handling as much as possible through the combination of Docker, Makefiles and configuration.
+Big fan of handling as much as possible through the combination of Docker, Makefiles and configurations. Even bigger fan of unit testing, automation, coding standards / conventions, documentation, high performance optimization and lowering memory usage.
 
 Had a minor adventure within frontend in the middle of 2021. Not hooked (maybe because it was solely as a hobby project and not professionally? Who knows...)
 
@@ -67,7 +65,7 @@ Had a minor adventure within frontend in the middle of 2021. Not hooked (maybe b
   <br>
 </p>
 
-#### Frontend
+#### Frontend (minor familarity)
 <p align="left">
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
@@ -88,10 +86,8 @@ Had a minor adventure within frontend in the middle of 2021. Not hooked (maybe b
     <img src="https://cdn.worldvectorlogo.com/logos/aws-iam.svg" alt="IAM" width="50" height="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" alt="API Gateway" width="50" height="50" />
     <img src="https://cdn.worldvectorlogo.com/logos/aws-vpc-1.svg" alt="VPC" width="50" height="50" />
-    <img src="https://snapshooter.com/assets/img/marketing/providers/aws-s3.svg" alt="S3" width="50" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="S3" width="50" height="50" />
   <br>
 </p>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vildmedpap&langs_count=10&layout=compact)
