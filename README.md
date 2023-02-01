@@ -1,10 +1,10 @@
-<h1 align="center">Lead MLOps Engineer @ Vivino 🍷</h1>
+<h1 align="center">Lead Matching Engineer @ Daltix</h1>
 
 <h4 align="center">Pythonista 🐍 &nbsp; Dockerlorian 🐳 &nbsp; Amazon Warrior (AWS) ☀️🌴⚔️ &nbsp; FastAPI devoter 💨🙏🏻 &nbsp; <i>Aspiring</i> Rustacean 🦀</h4>
 
 ---
 
-My passion is the intersection between machine learning and DevOps also known as MLOps. 5 years of experience as (Senior) Data Scientist / ML Engineer but committed myself 100% to MLOps in the beginning of 2022.
+My passion is the intersection between machine learning and DevOps also known as MLOps. 5 years of experience as (Senior) Data Scientist / ML Engineer but committed myself 100% to MLOps in the beginning of 2022. Since then moved on to be a Lead Matching Engineer at Daltix working with Product Matching, combining all my past experiences.
 
 Big fan of handling as much as possible through the combination of Docker, Makefiles and configurations. Even bigger fan of unit testing, automation, coding standards / conventions, documentation, high performance optimization and lowering memory usage.
 
